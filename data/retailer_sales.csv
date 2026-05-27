@@ -1,0 +1,7 @@
+date,country,brand,retailer,units_sold,retailer_revenue
+2026-04-01,NL,Core,Retailer A,38,1900
+2026-04-02,NL,Core,Retailer A,36,1820
+2026-04-03,NL,Core,Retailer B,29,1400
+2026-04-04,BE,Core,Retailer A,26,1280
+2026-04-05,BE,Core,Retailer B,31,1520
+2026-04-06,FR,Core,Retailer C,18,870
